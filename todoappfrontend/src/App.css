@@ -1,0 +1,9 @@
+body {
+  background-color: #cfe8fc;
+  padding-top: 7rem;
+}
+
+.tarea{
+  display: flex;
+  justify-content: space-between;
+}
